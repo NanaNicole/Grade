@@ -1,0 +1,234 @@
+C:\Users\leon802744\Downloads\cons\examples\Colegio\Colegio\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\leon802744\Downloads\cons\examples\Colegio\Colegio\bin\Debug\net6.0\appsettings.json
+C:\Users\leon802744\Downloads\cons\examples\Colegio\Colegio\bin\Debug\net6.0\appsettings.Production.json
+C:\Users\leon802744\Downloads\cons\examples\Colegio\Colegio\bin\Debug\net6.0\appsettings.Testing.json
+C:\Users\leon802744\Downloads\cons\examples\Colegio\Colegio\bin\Debug\net6.0\Student.exe
+C:\Users\leon802744\Downloads\cons\examples\Colegio\Colegio\bin\Debug\net6.0\Student.deps.json
+C:\Users\leon802744\Downloads\cons\examples\Colegio\Colegio\bin\Debug\net6.0\Student.runtimeconfig.json
+C:\Users\leon802744\Downloads\cons\examples\Colegio\Colegio\bin\Debug\net6.0\Student.dll
+C:\Users\leon802744\Downloads\cons\examples\Colegio\Colegio\bin\Debug\net6.0\Student.pdb
+C:\Users\leon802744\Downloads\cons\examples\Colegio\Colegio\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\leon802744\Downloads\cons\examples\Colegio\Colegio\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\leon802744\Downloads\cons\examples\Colegio\Colegio\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\leon802744\Downloads\cons\examples\Colegio\Colegio\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\leon802744\Downloads\cons\examples\Colegio\Colegio\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\leon802744\Downloads\cons\examples\Colegio\Colegio\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\leon802744\Downloads\cons\examples\Colegio\Colegio\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\leon802744\Downloads\cons\examples\Colegio\Colegio\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\leon802744\Downloads\cons\examples\Colegio\Colegio\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\leon802744\Downloads\cons\examples\Colegio\Colegio\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\leon802744\Downloads\cons\examples\Colegio\Colegio\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\leon802744\Downloads\cons\examples\Colegio\Colegio\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\leon802744\Downloads\cons\examples\Colegio\Colegio\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\leon802744\Downloads\cons\examples\Colegio\Colegio\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\leon802744\Downloads\cons\examples\Colegio\Colegio\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\leon802744\Downloads\cons\examples\Colegio\Colegio\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\leon802744\Downloads\cons\examples\Colegio\Colegio\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\leon802744\Downloads\cons\examples\Colegio\Colegio\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\leon802744\Downloads\cons\examples\Colegio\Colegio\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\leon802744\Downloads\cons\examples\Colegio\Colegio\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\leon802744\Downloads\cons\examples\Colegio\Colegio\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\leon802744\Downloads\cons\examples\Colegio\Colegio\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\leon802744\Downloads\cons\examples\Colegio\Colegio\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\leon802744\Downloads\cons\examples\Colegio\Colegio\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\leon802744\Downloads\cons\examples\Colegio\Colegio\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\leon802744\Downloads\cons\examples\Colegio\Colegio\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\leon802744\Downloads\cons\examples\Colegio\Colegio\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\leon802744\Downloads\cons\examples\Colegio\Colegio\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\leon802744\Downloads\cons\examples\Colegio\Colegio\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\leon802744\Downloads\cons\examples\Colegio\Colegio\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\leon802744\Downloads\cons\examples\Colegio\Colegio\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\leon802744\Downloads\cons\examples\Colegio\Colegio\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\leon802744\Downloads\cons\examples\Colegio\Colegio\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\leon802744\Downloads\cons\examples\Colegio\Colegio\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\leon802744\Downloads\cons\examples\Colegio\Colegio\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\leon802744\Downloads\cons\examples\Colegio\Colegio\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\leon802744\Downloads\cons\examples\Colegio\Colegio\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\leon802744\Downloads\cons\examples\Colegio\Colegio\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\leon802744\Downloads\cons\examples\Colegio\Colegio\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\leon802744\Downloads\cons\examples\Colegio\Colegio\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\leon802744\Downloads\cons\examples\Colegio\Colegio\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\leon802744\Downloads\cons\examples\Colegio\Colegio\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\leon802744\Downloads\cons\examples\Colegio\Colegio\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\leon802744\Downloads\cons\examples\Colegio\Colegio\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\leon802744\Downloads\cons\examples\Colegio\Colegio\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\leon802744\Downloads\cons\examples\Colegio\Colegio\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\leon802744\Downloads\cons\examples\Colegio\Colegio\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\leon802744\Downloads\cons\examples\Colegio\Colegio\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\leon802744\Downloads\cons\examples\Colegio\Colegio\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\leon802744\Downloads\cons\examples\Colegio\Colegio\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\leon802744\Downloads\cons\examples\Colegio\Colegio\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\leon802744\Downloads\cons\examples\Colegio\Colegio\obj\Debug\net6.0\Student.csproj.AssemblyReference.cache
+C:\Users\leon802744\Downloads\cons\examples\Colegio\Colegio\obj\Debug\net6.0\Student.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leon802744\Downloads\cons\examples\Colegio\Colegio\obj\Debug\net6.0\Student.AssemblyInfoInputs.cache
+C:\Users\leon802744\Downloads\cons\examples\Colegio\Colegio\obj\Debug\net6.0\Student.AssemblyInfo.cs
+C:\Users\leon802744\Downloads\cons\examples\Colegio\Colegio\obj\Debug\net6.0\Student.csproj.CoreCompileInputs.cache
+C:\Users\leon802744\Downloads\cons\examples\Colegio\Colegio\obj\Debug\net6.0\Student.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\leon802744\Downloads\cons\examples\Colegio\Colegio\obj\Debug\net6.0\Student.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\leon802744\Downloads\cons\examples\Colegio\Colegio\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\leon802744\Downloads\cons\examples\Colegio\Colegio\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\leon802744\Downloads\cons\examples\Colegio\Colegio\obj\Debug\net6.0\staticwebassets\msbuild.Student.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\leon802744\Downloads\cons\examples\Colegio\Colegio\obj\Debug\net6.0\staticwebassets\msbuild.build.Student.props
+C:\Users\leon802744\Downloads\cons\examples\Colegio\Colegio\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Student.props
+C:\Users\leon802744\Downloads\cons\examples\Colegio\Colegio\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Student.props
+C:\Users\leon802744\Downloads\cons\examples\Colegio\Colegio\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\leon802744\Downloads\cons\examples\Colegio\Colegio\obj\Debug\net6.0\scopedcss\bundle\Student.styles.css
+C:\Users\leon802744\Downloads\cons\examples\Colegio\Colegio\obj\Debug\net6.0\Student.csproj.CopyComplete
+C:\Users\leon802744\Downloads\cons\examples\Colegio\Colegio\obj\Debug\net6.0\Student.dll
+C:\Users\leon802744\Downloads\cons\examples\Colegio\Colegio\obj\Debug\net6.0\refint\Student.dll
+C:\Users\leon802744\Downloads\cons\examples\Colegio\Colegio\obj\Debug\net6.0\Student.pdb
+C:\Users\leon802744\Downloads\cons\examples\Colegio\Colegio\obj\Debug\net6.0\Student.genruntimeconfig.cache
+C:\Users\leon802744\Downloads\cons\examples\Colegio\Colegio\obj\Debug\net6.0\ref\Student.dll
+C:\Users\leon802744\Downloads\cons\examples\Colegio\Colegio\bin\Debug\net6.0\Confluent.Kafka.dll
+C:\Users\leon802744\Downloads\cons\examples\Colegio\Colegio\bin\Debug\net6.0\runtimes\linux-arm64\native\librdkafka.so
+C:\Users\leon802744\Downloads\cons\examples\Colegio\Colegio\bin\Debug\net6.0\runtimes\linux-x64\native\alpine-librdkafka.so
+C:\Users\leon802744\Downloads\cons\examples\Colegio\Colegio\bin\Debug\net6.0\runtimes\linux-x64\native\centos6-librdkafka.so
+C:\Users\leon802744\Downloads\cons\examples\Colegio\Colegio\bin\Debug\net6.0\runtimes\linux-x64\native\centos7-librdkafka.so
+C:\Users\leon802744\Downloads\cons\examples\Colegio\Colegio\bin\Debug\net6.0\runtimes\linux-x64\native\librdkafka.so
+C:\Users\leon802744\Downloads\cons\examples\Colegio\Colegio\bin\Debug\net6.0\runtimes\osx-arm64\native\librdkafka.dylib
+C:\Users\leon802744\Downloads\cons\examples\Colegio\Colegio\bin\Debug\net6.0\runtimes\osx-x64\native\librdkafka.dylib
+C:\Users\leon802744\Downloads\cons\examples\Colegio\Colegio\bin\Debug\net6.0\runtimes\win-x64\native\libcrypto-3-x64.dll
+C:\Users\leon802744\Downloads\cons\examples\Colegio\Colegio\bin\Debug\net6.0\runtimes\win-x64\native\libcurl.dll
+C:\Users\leon802744\Downloads\cons\examples\Colegio\Colegio\bin\Debug\net6.0\runtimes\win-x64\native\librdkafka.dll
+C:\Users\leon802744\Downloads\cons\examples\Colegio\Colegio\bin\Debug\net6.0\runtimes\win-x64\native\librdkafkacpp.dll
+C:\Users\leon802744\Downloads\cons\examples\Colegio\Colegio\bin\Debug\net6.0\runtimes\win-x64\native\libssl-3-x64.dll
+C:\Users\leon802744\Downloads\cons\examples\Colegio\Colegio\bin\Debug\net6.0\runtimes\win-x64\native\msvcp140.dll
+C:\Users\leon802744\Downloads\cons\examples\Colegio\Colegio\bin\Debug\net6.0\runtimes\win-x64\native\vcruntime140.dll
+C:\Users\leon802744\Downloads\cons\examples\Colegio\Colegio\bin\Debug\net6.0\runtimes\win-x64\native\zlib1.dll
+C:\Users\leon802744\Downloads\cons\examples\Colegio\Colegio\bin\Debug\net6.0\runtimes\win-x64\native\zstd.dll
+C:\Users\leon802744\Downloads\cons\examples\Colegio\Colegio\bin\Debug\net6.0\runtimes\win-x86\native\libcrypto-3.dll
+C:\Users\leon802744\Downloads\cons\examples\Colegio\Colegio\bin\Debug\net6.0\runtimes\win-x86\native\libcurl.dll
+C:\Users\leon802744\Downloads\cons\examples\Colegio\Colegio\bin\Debug\net6.0\runtimes\win-x86\native\librdkafka.dll
+C:\Users\leon802744\Downloads\cons\examples\Colegio\Colegio\bin\Debug\net6.0\runtimes\win-x86\native\librdkafkacpp.dll
+C:\Users\leon802744\Downloads\cons\examples\Colegio\Colegio\bin\Debug\net6.0\runtimes\win-x86\native\libssl-3.dll
+C:\Users\leon802744\Downloads\cons\examples\Colegio\Colegio\bin\Debug\net6.0\runtimes\win-x86\native\msvcp140.dll
+C:\Users\leon802744\Downloads\cons\examples\Colegio\Colegio\bin\Debug\net6.0\runtimes\win-x86\native\vcruntime140.dll
+C:\Users\leon802744\Downloads\cons\examples\Colegio\Colegio\bin\Debug\net6.0\runtimes\win-x86\native\zlib1.dll
+C:\Users\leon802744\Downloads\cons\examples\Colegio\Colegio\bin\Debug\net6.0\runtimes\win-x86\native\zstd.dll
+C:\Users\leon802744\Downloads\cons\examples\Colegio\Colegio\bin\Debug\net6.0\Humanizer.dll
+C:\Users\leon802744\Downloads\cons\examples\Colegio\Colegio\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\leon802744\Downloads\cons\examples\Colegio\Colegio\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\leon802744\Downloads\cons\examples\Colegio\Colegio\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\leon802744\Downloads\cons\examples\Colegio\Colegio\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\leon802744\Downloads\cons\examples\Colegio\Colegio\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\leon802744\Downloads\cons\examples\Colegio\Colegio\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\leon802744\Downloads\cons\examples\Colegio\Colegio\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\leon802744\Downloads\cons\examples\Colegio\Colegio\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\LMS Curos Micro\student\Colegio\bin\Debug\net6.0\appsettings.Development.json
+D:\LMS Curos Micro\student\Colegio\bin\Debug\net6.0\appsettings.json
+D:\LMS Curos Micro\student\Colegio\bin\Debug\net6.0\appsettings.Production.json
+D:\LMS Curos Micro\student\Colegio\bin\Debug\net6.0\appsettings.Testing.json
+D:\LMS Curos Micro\student\Colegio\bin\Debug\net6.0\Student.exe
+D:\LMS Curos Micro\student\Colegio\bin\Debug\net6.0\Student.deps.json
+D:\LMS Curos Micro\student\Colegio\bin\Debug\net6.0\Student.runtimeconfig.json
+D:\LMS Curos Micro\student\Colegio\bin\Debug\net6.0\Student.dll
+D:\LMS Curos Micro\student\Colegio\bin\Debug\net6.0\Student.pdb
+D:\LMS Curos Micro\student\Colegio\bin\Debug\net6.0\Azure.Core.dll
+D:\LMS Curos Micro\student\Colegio\bin\Debug\net6.0\Azure.Identity.dll
+D:\LMS Curos Micro\student\Colegio\bin\Debug\net6.0\Confluent.Kafka.dll
+D:\LMS Curos Micro\student\Colegio\bin\Debug\net6.0\Humanizer.dll
+D:\LMS Curos Micro\student\Colegio\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\LMS Curos Micro\student\Colegio\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\LMS Curos Micro\student\Colegio\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\LMS Curos Micro\student\Colegio\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\LMS Curos Micro\student\Colegio\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\LMS Curos Micro\student\Colegio\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\LMS Curos Micro\student\Colegio\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\LMS Curos Micro\student\Colegio\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\LMS Curos Micro\student\Colegio\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\LMS Curos Micro\student\Colegio\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\LMS Curos Micro\student\Colegio\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\LMS Curos Micro\student\Colegio\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\LMS Curos Micro\student\Colegio\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\LMS Curos Micro\student\Colegio\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\LMS Curos Micro\student\Colegio\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\LMS Curos Micro\student\Colegio\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\LMS Curos Micro\student\Colegio\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\LMS Curos Micro\student\Colegio\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\LMS Curos Micro\student\Colegio\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\LMS Curos Micro\student\Colegio\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\LMS Curos Micro\student\Colegio\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\LMS Curos Micro\student\Colegio\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\LMS Curos Micro\student\Colegio\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\LMS Curos Micro\student\Colegio\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\LMS Curos Micro\student\Colegio\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\LMS Curos Micro\student\Colegio\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\LMS Curos Micro\student\Colegio\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\LMS Curos Micro\student\Colegio\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\LMS Curos Micro\student\Colegio\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\LMS Curos Micro\student\Colegio\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\LMS Curos Micro\student\Colegio\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\LMS Curos Micro\student\Colegio\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\LMS Curos Micro\student\Colegio\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\LMS Curos Micro\student\Colegio\bin\Debug\net6.0\System.CodeDom.dll
+D:\LMS Curos Micro\student\Colegio\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\LMS Curos Micro\student\Colegio\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\LMS Curos Micro\student\Colegio\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\LMS Curos Micro\student\Colegio\bin\Debug\net6.0\System.Memory.Data.dll
+D:\LMS Curos Micro\student\Colegio\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\LMS Curos Micro\student\Colegio\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\LMS Curos Micro\student\Colegio\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\LMS Curos Micro\student\Colegio\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\LMS Curos Micro\student\Colegio\bin\Debug\net6.0\System.Text.Json.dll
+D:\LMS Curos Micro\student\Colegio\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\LMS Curos Micro\student\Colegio\bin\Debug\net6.0\runtimes\linux-arm64\native\librdkafka.so
+D:\LMS Curos Micro\student\Colegio\bin\Debug\net6.0\runtimes\linux-x64\native\alpine-librdkafka.so
+D:\LMS Curos Micro\student\Colegio\bin\Debug\net6.0\runtimes\linux-x64\native\centos6-librdkafka.so
+D:\LMS Curos Micro\student\Colegio\bin\Debug\net6.0\runtimes\linux-x64\native\centos7-librdkafka.so
+D:\LMS Curos Micro\student\Colegio\bin\Debug\net6.0\runtimes\linux-x64\native\librdkafka.so
+D:\LMS Curos Micro\student\Colegio\bin\Debug\net6.0\runtimes\osx-arm64\native\librdkafka.dylib
+D:\LMS Curos Micro\student\Colegio\bin\Debug\net6.0\runtimes\osx-x64\native\librdkafka.dylib
+D:\LMS Curos Micro\student\Colegio\bin\Debug\net6.0\runtimes\win-x64\native\libcrypto-3-x64.dll
+D:\LMS Curos Micro\student\Colegio\bin\Debug\net6.0\runtimes\win-x64\native\libcurl.dll
+D:\LMS Curos Micro\student\Colegio\bin\Debug\net6.0\runtimes\win-x64\native\librdkafka.dll
+D:\LMS Curos Micro\student\Colegio\bin\Debug\net6.0\runtimes\win-x64\native\librdkafkacpp.dll
+D:\LMS Curos Micro\student\Colegio\bin\Debug\net6.0\runtimes\win-x64\native\libssl-3-x64.dll
+D:\LMS Curos Micro\student\Colegio\bin\Debug\net6.0\runtimes\win-x64\native\msvcp140.dll
+D:\LMS Curos Micro\student\Colegio\bin\Debug\net6.0\runtimes\win-x64\native\vcruntime140.dll
+D:\LMS Curos Micro\student\Colegio\bin\Debug\net6.0\runtimes\win-x64\native\zlib1.dll
+D:\LMS Curos Micro\student\Colegio\bin\Debug\net6.0\runtimes\win-x64\native\zstd.dll
+D:\LMS Curos Micro\student\Colegio\bin\Debug\net6.0\runtimes\win-x86\native\libcrypto-3.dll
+D:\LMS Curos Micro\student\Colegio\bin\Debug\net6.0\runtimes\win-x86\native\libcurl.dll
+D:\LMS Curos Micro\student\Colegio\bin\Debug\net6.0\runtimes\win-x86\native\librdkafka.dll
+D:\LMS Curos Micro\student\Colegio\bin\Debug\net6.0\runtimes\win-x86\native\librdkafkacpp.dll
+D:\LMS Curos Micro\student\Colegio\bin\Debug\net6.0\runtimes\win-x86\native\libssl-3.dll
+D:\LMS Curos Micro\student\Colegio\bin\Debug\net6.0\runtimes\win-x86\native\msvcp140.dll
+D:\LMS Curos Micro\student\Colegio\bin\Debug\net6.0\runtimes\win-x86\native\vcruntime140.dll
+D:\LMS Curos Micro\student\Colegio\bin\Debug\net6.0\runtimes\win-x86\native\zlib1.dll
+D:\LMS Curos Micro\student\Colegio\bin\Debug\net6.0\runtimes\win-x86\native\zstd.dll
+D:\LMS Curos Micro\student\Colegio\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\LMS Curos Micro\student\Colegio\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\LMS Curos Micro\student\Colegio\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\LMS Curos Micro\student\Colegio\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\LMS Curos Micro\student\Colegio\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\LMS Curos Micro\student\Colegio\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\LMS Curos Micro\student\Colegio\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\LMS Curos Micro\student\Colegio\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\LMS Curos Micro\student\Colegio\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\LMS Curos Micro\student\Colegio\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\LMS Curos Micro\student\Colegio\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\LMS Curos Micro\student\Colegio\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\LMS Curos Micro\student\Colegio\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\LMS Curos Micro\student\Colegio\obj\Debug\net6.0\Student.csproj.AssemblyReference.cache
+D:\LMS Curos Micro\student\Colegio\obj\Debug\net6.0\Student.GeneratedMSBuildEditorConfig.editorconfig
+D:\LMS Curos Micro\student\Colegio\obj\Debug\net6.0\Student.AssemblyInfoInputs.cache
+D:\LMS Curos Micro\student\Colegio\obj\Debug\net6.0\Student.AssemblyInfo.cs
+D:\LMS Curos Micro\student\Colegio\obj\Debug\net6.0\Student.csproj.CoreCompileInputs.cache
+D:\LMS Curos Micro\student\Colegio\obj\Debug\net6.0\Student.MvcApplicationPartsAssemblyInfo.cs
+D:\LMS Curos Micro\student\Colegio\obj\Debug\net6.0\Student.MvcApplicationPartsAssemblyInfo.cache
+D:\LMS Curos Micro\student\Colegio\obj\Debug\net6.0\Student.sourcelink.json
+D:\LMS Curos Micro\student\Colegio\obj\Debug\net6.0\staticwebassets.build.json
+D:\LMS Curos Micro\student\Colegio\obj\Debug\net6.0\staticwebassets.development.json
+D:\LMS Curos Micro\student\Colegio\obj\Debug\net6.0\staticwebassets\msbuild.Student.Microsoft.AspNetCore.StaticWebAssets.props
+D:\LMS Curos Micro\student\Colegio\obj\Debug\net6.0\staticwebassets\msbuild.build.Student.props
+D:\LMS Curos Micro\student\Colegio\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Student.props
+D:\LMS Curos Micro\student\Colegio\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Student.props
+D:\LMS Curos Micro\student\Colegio\obj\Debug\net6.0\staticwebassets.pack.json
+D:\LMS Curos Micro\student\Colegio\obj\Debug\net6.0\scopedcss\bundle\Student.styles.css
+D:\LMS Curos Micro\student\Colegio\obj\Debug\net6.0\Student.csproj.CopyComplete
+D:\LMS Curos Micro\student\Colegio\obj\Debug\net6.0\Student.dll
+D:\LMS Curos Micro\student\Colegio\obj\Debug\net6.0\refint\Student.dll
+D:\LMS Curos Micro\student\Colegio\obj\Debug\net6.0\Student.pdb
+D:\LMS Curos Micro\student\Colegio\obj\Debug\net6.0\Student.genruntimeconfig.cache
+D:\LMS Curos Micro\student\Colegio\obj\Debug\net6.0\ref\Student.dll
+D:\LMS Curos Micro\student\Colegio\bin\Debug\net6.0\Newtonsoft.Json.dll

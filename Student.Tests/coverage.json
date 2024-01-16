@@ -1,0 +1,445 @@
+{
+  "Student.dll": {
+    "C:\\Users\\leon802744\\Downloads\\cons\\examples\\Colegio\\Colegio\\Program.cs": {
+      "Program": {
+        "System.Void Program::<Main>$(System.String[])": {
+          "Lines": {
+            "8": 0,
+            "12": 0,
+            "14": 0,
+            "15": 0,
+            "16": 0,
+            "17": 0,
+            "19": 0,
+            "20": 0,
+            "21": 0,
+            "22": 0,
+            "23": 0,
+            "24": 0,
+            "25": 0,
+            "26": 0,
+            "27": 0,
+            "28": 0,
+            "29": 0,
+            "30": 0,
+            "31": 0,
+            "32": 0,
+            "33": 0,
+            "36": 0,
+            "37": 0,
+            "38": 0,
+            "39": 0,
+            "40": 0,
+            "44": 0,
+            "46": 0,
+            "48": 0,
+            "50": 0,
+            "52": 0
+          },
+          "Branches": [
+            {
+              "Line": 36,
+              "Offset": 191,
+              "EndOffset": 193,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 36,
+              "Offset": 191,
+              "EndOffset": 211,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        }
+      }
+    },
+    "C:\\Users\\leon802744\\Downloads\\cons\\examples\\Colegio\\Colegio\\Producer\\Producer.cs": {
+      "Student.Producer.Producer": {
+        "System.Void Student.Producer.Producer::ProducerConfig()": {
+          "Lines": {
+            "9": 0,
+            "10": 0,
+            "11": 0,
+            "12": 0,
+            "13": 0,
+            "14": 0
+          },
+          "Branches": []
+        },
+        "System.Void Student.Producer.Producer::ProduceMessage(System.String)": {
+          "Lines": {
+            "17": 0,
+            "18": 0,
+            "19": 0,
+            "21": 0,
+            "22": 0,
+            "23": 0,
+            "24": 0,
+            "25": 0,
+            "26": 0,
+            "27": 0,
+            "28": 0,
+            "29": 0,
+            "30": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\leon802744\\Downloads\\cons\\examples\\Colegio\\Colegio\\ColegioContext.cs": {
+      "Colegio.ColegioContext": {
+        "Microsoft.EntityFrameworkCore.DbSet`1<Colegio.Models.EstudentDto> Colegio.ColegioContext::get_Estudents()": {
+          "Lines": {
+            "8": 0
+          },
+          "Branches": []
+        },
+        "Microsoft.EntityFrameworkCore.DbSet`1<Colegio.Models.GradeDto> Colegio.ColegioContext::get_Grades()": {
+          "Lines": {
+            "10": 0
+          },
+          "Branches": []
+        },
+        "System.Void Colegio.ColegioContext::OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder)": {
+          "Lines": {
+            "15": 0,
+            "16": 0,
+            "17": 0,
+            "18": 0,
+            "19": 0,
+            "20": 0,
+            "21": 0,
+            "22": 0,
+            "23": 0,
+            "24": 0,
+            "25": 0,
+            "26": 0,
+            "27": 0,
+            "28": 0,
+            "29": 0,
+            "30": 0,
+            "31": 0,
+            "32": 0,
+            "33": 0,
+            "34": 0,
+            "35": 0,
+            "36": 0,
+            "37": 0,
+            "38": 0,
+            "39": 0,
+            "41": 0,
+            "42": 0,
+            "43": 0,
+            "44": 0,
+            "45": 0,
+            "46": 0,
+            "47": 0,
+            "48": 0,
+            "49": 0
+          },
+          "Branches": []
+        },
+        "System.Void Colegio.ColegioContext::Colegio.IColegioContext.SaveChanges()": {
+          "Lines": {
+            "52": 0,
+            "53": 0,
+            "54": 0
+          },
+          "Branches": []
+        },
+        "System.Void Colegio.ColegioContext::.ctor(Microsoft.EntityFrameworkCore.DbContextOptions`1<Colegio.ColegioContext>)": {
+          "Lines": {
+            "12": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\leon802744\\Downloads\\cons\\examples\\Colegio\\Colegio\\Services\\Estudent.cs": {
+      "Colegio.Services.Estudent": {
+        "System.Collections.Generic.List`1<Colegio.Models.EstudentDto> Colegio.Services.Estudent::GetEstudents()": {
+          "Lines": {
+            "19": 2,
+            "20": 2,
+            "22": 2,
+            "23": 2,
+            "24": 2,
+            "25": 0,
+            "26": 0,
+            "27": 0,
+            "28": 0,
+            "29": 2,
+            "30": 2
+          },
+          "Branches": []
+        },
+        "Colegio.Models.EstudentDto Colegio.Services.Estudent::GetEstudentByIdeentification(System.Int32)": {
+          "Lines": {
+            "36": 1,
+            "37": 1,
+            "39": 1,
+            "40": 1,
+            "41": 1,
+            "42": 1,
+            "43": 0,
+            "44": 0,
+            "45": 0,
+            "46": 0,
+            "47": 1,
+            "48": 1
+          },
+          "Branches": []
+        },
+        "System.Boolean Colegio.Services.Estudent::CreateEstudent(Colegio.Models.EstudentDto)": {
+          "Lines": {
+            "51": 1,
+            "52": 1,
+            "54": 1,
+            "55": 1,
+            "56": 1,
+            "57": 1,
+            "58": 1,
+            "59": 1,
+            "60": 0,
+            "61": 0,
+            "62": 0,
+            "63": 0,
+            "64": 1,
+            "65": 1
+          },
+          "Branches": []
+        },
+        "System.Boolean Colegio.Services.Estudent::DeleteEstudent(System.Guid)": {
+          "Lines": {
+            "68": 3,
+            "69": 3,
+            "71": 3,
+            "72": 3,
+            "73": 2,
+            "74": 1,
+            "75": 1,
+            "76": 1,
+            "77": 1,
+            "78": 1,
+            "79": 2,
+            "80": 1,
+            "81": 1,
+            "82": 1,
+            "83": 1,
+            "84": 3,
+            "85": 3
+          },
+          "Branches": [
+            {
+              "Line": 73,
+              "Offset": 18,
+              "EndOffset": 20,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 73,
+              "Offset": 18,
+              "EndOffset": 54,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 2
+            }
+          ]
+        },
+        "Colegio.Models.EstudentDto Colegio.Services.Estudent::FindEstudent(System.Guid)": {
+          "Lines": {
+            "88": 3,
+            "89": 3,
+            "90": 2
+          },
+          "Branches": []
+        },
+        "System.Void Colegio.Services.Estudent::.ctor(Microsoft.Extensions.Logging.ILogger`1<Colegio.Services.Estudent>,Colegio.IColegioContext)": {
+          "Lines": {
+            "12": 7,
+            "13": 7,
+            "14": 7,
+            "15": 7,
+            "16": 7
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\leon802744\\Downloads\\cons\\examples\\Colegio\\Colegio\\Models\\EstudentDto.cs": {
+      "Colegio.Models.EstudentDto": {
+        "System.Guid Colegio.Models.EstudentDto::get_Id()": {
+          "Lines": {
+            "8": 6
+          },
+          "Branches": []
+        },
+        "Colegio.Enums.TypeIdentificationEnum Colegio.Models.EstudentDto::get_TypeIdentification()": {
+          "Lines": {
+            "11": 0
+          },
+          "Branches": []
+        },
+        "System.Int32 Colegio.Models.EstudentDto::get_Identification()": {
+          "Lines": {
+            "14": 2
+          },
+          "Branches": []
+        },
+        "System.String Colegio.Models.EstudentDto::get_Name()": {
+          "Lines": {
+            "18": 5
+          },
+          "Branches": []
+        },
+        "System.String Colegio.Models.EstudentDto::get_Email()": {
+          "Lines": {
+            "22": 5
+          },
+          "Branches": []
+        },
+        "System.Guid Colegio.Models.EstudentDto::get_GradeId()": {
+          "Lines": {
+            "24": 0
+          },
+          "Branches": []
+        },
+        "Colegio.Models.GradeDto Colegio.Models.EstudentDto::get_Grade()": {
+          "Lines": {
+            "27": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\leon802744\\Downloads\\cons\\examples\\Colegio\\Colegio\\Models\\GradeDto.cs": {
+      "Colegio.Models.GradeDto": {
+        "System.Guid Colegio.Models.GradeDto::get_Id()": {
+          "Lines": {
+            "6": 0
+          },
+          "Branches": []
+        },
+        "System.String Colegio.Models.GradeDto::get_Name()": {
+          "Lines": {
+            "9": 0
+          },
+          "Branches": []
+        },
+        "System.Int32 Colegio.Models.GradeDto::get_Number()": {
+          "Lines": {
+            "12": 0
+          },
+          "Branches": []
+        },
+        "Colegio.Models.EstudentDto Colegio.Models.GradeDto::get_Estudent()": {
+          "Lines": {
+            "14": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\leon802744\\Downloads\\cons\\examples\\Colegio\\Colegio\\Controllers\\EstudentController.cs": {
+      "Colegio.Controllers.EstudentController": {
+        "Microsoft.AspNetCore.Mvc.IActionResult Colegio.Controllers.EstudentController::CreateDatabase()": {
+          "Lines": {
+            "30": 0,
+            "32": 0,
+            "33": 0,
+            "34": 0,
+            "36": 0,
+            "37": 0,
+            "38": 0,
+            "39": 0,
+            "41": 0
+          },
+          "Branches": []
+        },
+        "Microsoft.AspNetCore.Mvc.IActionResult Colegio.Controllers.EstudentController::GetEstudent()": {
+          "Lines": {
+            "46": 0,
+            "47": 0,
+            "48": 0
+          },
+          "Branches": []
+        },
+        "Microsoft.AspNetCore.Mvc.IActionResult Colegio.Controllers.EstudentController::GetEstudentByIdentification(System.Int32)": {
+          "Lines": {
+            "53": 0,
+            "54": 0,
+            "55": 0
+          },
+          "Branches": []
+        },
+        "Microsoft.AspNetCore.Mvc.IActionResult Colegio.Controllers.EstudentController::CreateUser(Colegio.Models.EstudentDto)": {
+          "Lines": {
+            "60": 0,
+            "61": 0,
+            "62": 0
+          },
+          "Branches": []
+        },
+        "Microsoft.AspNetCore.Mvc.IActionResult Colegio.Controllers.EstudentController::DeleteUser(System.Guid)": {
+          "Lines": {
+            "67": 0,
+            "69": 0,
+            "70": 0,
+            "71": 0,
+            "72": 0,
+            "75": 0,
+            "76": 0,
+            "79": 0,
+            "80": 0,
+            "81": 0,
+            "83": 0
+          },
+          "Branches": [
+            {
+              "Line": 70,
+              "Offset": 16,
+              "EndOffset": 18,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 70,
+              "Offset": 16,
+              "EndOffset": 28,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Void Colegio.Controllers.EstudentController::.ctor(Microsoft.Extensions.Logging.ILogger`1<Colegio.Controllers.EstudentController>,Colegio.ColegioContext,Colegio.Services.Interfaces.IEstudent)": {
+          "Lines": {
+            "20": 0,
+            "21": 0,
+            "22": 0,
+            "23": 0,
+            "24": 0,
+            "25": 0
+          },
+          "Branches": []
+        },
+        "System.Void Colegio.Controllers.EstudentController::.cctor()": {
+          "Lines": {
+            "11": 0,
+            "12": 0,
+            "13": 0,
+            "14": 0
+          },
+          "Branches": []
+        }
+      }
+    }
+  }
+}
